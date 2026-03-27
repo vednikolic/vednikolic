@@ -41,7 +41,7 @@ I build tools that solve real problems I hit as a PM. All open source, all LLM-a
 The memory layer AI coding tools ship without. Routes session context to structured destinations and surfaces cross-project patterns via a knowledge graph.
 
 ```
-cortex save "latency tradeoff: chose 30fps default for battery"
+cortex save "chose connection pooling over per-request"
 cortex dream  # surfaces patterns across all projects
 ```
 
