@@ -94,6 +94,61 @@ Expand moat, Simplify, Second-order
 
 ---
 
+## Career
+
+<table>
+<tr>
+<td width="25%" align="center"><strong>Meta</strong><br /><sub>Reality Labs</sub></td>
+<td width="75%">
+
+**Senior Product Manager** | 2022 to Present
+- Drove capture to #1 feature and #1 purchase driver on Meta's AI glasses
+- Scaled team 3x (14 to 40+ engineers) while shipping largest feature expansion in product history ahead of schedule
+
+</td>
+</tr>
+<tr>
+<td width="25%" align="center"><strong>Best Buy</strong><br /><sub>Canada</sub></td>
+<td width="75%">
+
+**Senior Product Manager** | 2020 to 2022
+- Delivered $50M+ incremental annual revenue across recommendation systems and in-home service products
+- Increased recommendation penetration 400%+, boosting attach rates by 85%
+
+</td>
+</tr>
+<tr>
+<td width="25%" align="center"><strong>IS Inc.</strong><br /><sub>Founder</sub></td>
+<td width="75%">
+
+**Product Management Consultant** | 2018 to 2020
+- Founded consultancy delivering 0-to-1 solutions across fintech, blockchain, and e-commerce for clients in 4 countries
+
+</td>
+</tr>
+<tr>
+<td width="25%" align="center"><strong>Allysian Sciences</strong></td>
+<td width="75%">
+
+**Director of Product** | 2015 to 2018
+- Propelled company to 100% annual growth across 6 global markets over 3 years
+- Increased subscription retention 60% through loyalty and gamification features
+
+</td>
+</tr>
+<tr>
+<td width="25%" align="center"><strong>USANA</strong><br /><sub>Health Sciences</sub></td>
+<td width="75%">
+
+**Director of Marketing and Communications** | 2012 to 2015
+- Drove 20% year-over-year growth in mature markets through integrated marketing strategies
+
+</td>
+</tr>
+</table>
+
+---
+
 ## How I Think About Product
 
 ```
