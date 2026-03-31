@@ -22,7 +22,7 @@ I build consumer experiences on AI-powered hardware. By day, I ship capture expe
 
 ## What I Build at Meta
 
-Led the media capture user experience across Meta's AI wearable devices. Drove capture to the **#1 feature and #1 purchase driver** on Meta's AI glasses. Shipped the largest feature expansion in capture history ahead of schedule. Scaled the team **3x** across multiple product lines.
+Led the media capture user experience across Meta's AI wearable devices. Drove capture to the **#1 feature and #1 purchase driver** on Meta's AI glasses. Shipped the largest feature expansion in capture history ahead of schedule. Scaled product support **3x** across multiple product lines.
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Expand moat, Simplify, Second-order
 
 **Senior Product Manager** | 2022 to Present
 - Drove capture to #1 feature and #1 purchase driver on Meta's AI glasses
-- Scaled team 3x (14 to 40+ engineers) while shipping largest feature expansion in product history ahead of schedule
+- Scaled product support 3x (14 to 40+ engineers) while shipping largest feature expansion in product history ahead of schedule
 
 </td>
 </tr>
