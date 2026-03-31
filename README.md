@@ -15,7 +15,7 @@ I build consumer experiences on AI-powered hardware. By day, I ship capture expe
 
 ## What I Build at Meta
 
-Led the media capture user experience across Meta's AI wearable devices. Drove capture to the **#1 feature and #1 purchase driver** on Meta's AI glasses. Shipped the largest feature expansion in capture history ahead of schedule. Scaled the team **3x** across multiple product lines. Rated **Exceeds Expectations** (2024, 2025).
+Led the media capture user experience across Meta's AI wearable devices. Drove capture to the **#1 feature and #1 purchase driver** on Meta's AI glasses. Shipped the largest feature expansion in capture history ahead of schedule. Scaled the team **3x** across multiple product lines.
 
 <div align="center">
 
