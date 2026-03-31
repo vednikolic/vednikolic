@@ -9,6 +9,13 @@ I build consumer experiences on AI-powered hardware. By day, I ship capture expe
 <img src="https://img.shields.io/badge/Meta-Reality%20Labs-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Wearables-7%2B%20devices-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-Tools%20%26%20CLIs-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<br /><br />
+<img src="https://img.shields.io/badge/0--to--1%20Products-4B5563?style=flat-square" />
+<img src="https://img.shields.io/badge/Cross--Functional%20Leadership-4B5563?style=flat-square" />
+<img src="https://img.shields.io/badge/Hardware%20%2B%20Software-4B5563?style=flat-square" />
+<img src="https://img.shields.io/badge/Data--Driven%20Prioritization-4B5563?style=flat-square" />
+<img src="https://img.shields.io/badge/User%20Research-4B5563?style=flat-square" />
+<img src="https://img.shields.io/badge/Eval--Driven%20Iteration-4B5563?style=flat-square" />
 </div>
 
 ---
@@ -38,11 +45,12 @@ I build tools that solve real problems I hit as a PM. All open source, all LLM-a
 ### [Cortex](https://github.com/vednikolic/cortex)
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
-The memory layer AI coding tools ship without. Routes session context to structured destinations and surfaces cross-project patterns via a knowledge graph.
+AI tools remember and forget. Cortex connects. A knowledge graph that surfaces patterns across projects you would not notice yourself. Runs alongside Anthropic's Auto Dream, not instead of it.
 
 ```
-cortex save "chose connection pooling over per-request"
-cortex reflect  # surfaces patterns across all projects
+/save    routes learnings to 4 destinations
+/reflect surfaces cross-project signals
+concepts CLI builds the knowledge graph
 ```
 
 </td>
