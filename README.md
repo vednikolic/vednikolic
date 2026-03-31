@@ -42,7 +42,7 @@ The memory layer AI coding tools ship without. Routes session context to structu
 
 ```
 cortex save "chose connection pooling over per-request"
-cortex dream  # surfaces patterns across all projects
+cortex reflect  # surfaces patterns across all projects
 ```
 
 </td>
