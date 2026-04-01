@@ -1,21 +1,14 @@
 # Ved Nikolic
 
-**Senior Product Manager | AI Wearables | Meta Reality Labs**
+**Senior Product Manager | AI Products | Evaluation and Developer Tools**
 
-I build consumer experiences on AI-powered hardware. By day, I ship capture experiences on Meta's AI glasses used by millions. By night, I build open source tools that make product work sharper.
+I build AI products and the systems that prove they work for customers. Shipped the #1 feature on Meta's AI glasses at consumer scale. Now building open source tools for AI development: knowledge graphs, multi-agent pipelines, and eval methodology proven across 89+ LLM evals.
 
 <div align="center">
 <img src="https://img.shields.io/badge/Product%20Management-10%2B%20years-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Meta-Reality%20Labs-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Wearables-7%2B%20devices-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Evaluation-89%2B%20LLM%20Evals-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Developer%20Tools-Open%20Source-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-Tools%20%26%20CLIs-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<br /><br />
-<img src="https://img.shields.io/badge/0--to--1%20Products-4B5563?style=flat-square" />
-<img src="https://img.shields.io/badge/Cross--Functional%20Leadership-4B5563?style=flat-square" />
-<img src="https://img.shields.io/badge/Hardware%20%2B%20Software-4B5563?style=flat-square" />
-<img src="https://img.shields.io/badge/Data--Driven%20Prioritization-4B5563?style=flat-square" />
-<img src="https://img.shields.io/badge/User%20Research-4B5563?style=flat-square" />
-<img src="https://img.shields.io/badge/Eval--Driven%20Iteration-4B5563?style=flat-square" />
 </div>
 
 ---
@@ -36,7 +29,7 @@ Led the media capture user experience across Meta's AI wearable devices. Drove c
 
 ## Open Source Tools
 
-I build tools that solve real problems I hit as a PM. All open source, all LLM-agnostic.
+I build tools that solve real problems in AI product development. All open source, all LLM-agnostic.
 
 <table>
 <tr>
@@ -45,15 +38,31 @@ I build tools that solve real problems I hit as a PM. All open source, all LLM-a
 ### [Cortex](https://github.com/vednikolic/cortex)
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
-AI tools remember and forget. Cortex connects. A knowledge graph that surfaces patterns across projects you would not notice yourself. Runs alongside Anthropic's Auto Dream, not instead of it.
+The memory layer AI coding tools ship without. Routes session context to structured destinations and surfaces cross-project patterns via a knowledge graph.
 
 ```
-/save    routes learnings to 4 destinations
-/reflect surfaces cross-project signals
-concepts CLI builds the knowledge graph
+cortex save "chose connection pooling over per-request"
+cortex reflect  # surfaces patterns across all projects
 ```
 
 </td>
+<td width="50%" valign="top">
+
+### [Evalgate](https://github.com/vednikolic/evalgate)
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/status-work%20in%20progress-F59E0B?style=flat-square" />
+
+Evaluation methodology and tooling for AI products. Schema normalization, constraint gates, variance-aware regression detection, and cost/quality measurement across models.
+
+```
+Principles from 89+ LLM evals:
+- Atomic evals (one assertion per check)
+- Constraint gates (one failure = zero score)
+- LLM-as-judge variance: 5-7.5%
+```
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [PM AutoResearch](https://github.com/vednikolic/pm-autoresearch)
@@ -67,8 +76,6 @@ Evals: 19 binary criteria, locked harness
 ```
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Red-Team](https://github.com/vednikolic/red-team)
@@ -83,6 +90,8 @@ Design, Ops, Localization
 ```
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Steelman](https://github.com/vednikolic/steelman)
@@ -97,90 +106,24 @@ Expand moat, Simplify, Second-order
 ```
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
 ---
 
-## Career
-
-<table>
-<tr>
-<td width="25%" align="center"><strong>Meta</strong><br /><sub>Reality Labs</sub></td>
-<td width="75%">
-
-**Senior Product Manager** | 2022 to Present
-- Drove capture to #1 feature and #1 purchase driver on Meta's AI glasses
-- Scaled product support 3x (14 to 40+ engineers) while shipping largest feature expansion in product history ahead of schedule
-
-</td>
-</tr>
-<tr>
-<td width="25%" align="center"><strong>Best Buy</strong><br /><sub>Canada</sub></td>
-<td width="75%">
-
-**Senior Product Manager** | 2020 to 2022
-- Delivered $50M+ incremental annual revenue across recommendation systems and in-home service products
-- Increased recommendation penetration 400%+, boosting attach rates by 85%
-
-</td>
-</tr>
-<tr>
-<td width="25%" align="center"><strong>IS Inc.</strong><br /><sub>Founder</sub></td>
-<td width="75%">
-
-**Product Management Consultant** | 2018 to 2020
-- Founded consultancy delivering 0-to-1 solutions across fintech, blockchain, and e-commerce for clients in 4 countries
-
-</td>
-</tr>
-<tr>
-<td width="25%" align="center"><strong>Allysian Sciences</strong></td>
-<td width="75%">
-
-**Director of Product** | 2015 to 2018
-- Propelled company to 100% annual growth across 6 global markets over 3 years
-- Increased subscription retention 60% through loyalty and gamification features
-
-</td>
-</tr>
-<tr>
-<td width="25%" align="center"><strong>USANA</strong><br /><sub>Health Sciences</sub></td>
-<td width="75%">
-
-**Director of Marketing and Communications** | 2012 to 2015
-- Drove 20% year-over-year growth in mature markets through integrated marketing strategies
-
-</td>
-</tr>
-</table>
-
----
-
-## How I Think About Product
+## How I Work
 
 ```
-  UNDERSTAND                  PRIORITIZE                    HARDEN                       EXECUTE
-  ----------                  ----------                    ------                       -------
+  FIND THE GAP              CUT TO WHAT MATTERS          STRESS-TEST                  MEASURE WHAT SHIPPED
+  ------------              -------------------          -----------                  --------------------
 
-  +---------------+     +------------------+     +-------------------+     +------------------+
-  |  Comprehend   |     |  Cut ruthlessly  |     |  Red-Team         |     |  AutoResearch    |
-  |  the customer | --> |  using data      | --> |  (stress-test     | --> |  (eval-driven    |
-  |               |     |                  |     |   from 12 lenses) |     |   iteration)     |
-  |  Identify     |     |  List solutions  |     |                   |     |                  |
-  |  real needs   |     |  Evaluate        |     |  Steelman         |     |  Ship & Measure  |
-  |  Report       |     |  tradeoffs       |     |  (fortify weak    |     |  (observe, learn |
-  |  findings     |     |  Summarize       |     |   points)         |     |   repeat)        |
-  +---------------+     +------------------+     +-------------------+     +------------------+
+  #1 feature on             13 features shipped          2 blocking issues            PRD: 17% --> 94%
+  Meta AI glasses           ahead of schedule            caught before build          89+ LLM evals
+  (identified real          (said no to scope            (red-team from               (automated loops,
+   user need first)          that didn't move             12 disciplinary              locked scoring,
+                             the metric)                  lenses)                      variance-aware)
 ```
-
-**Understand the customer.** Comprehend the situation. Identify who the customer is, what they need, and why it matters. Report findings with data, not assumptions. Every product decision traces back to a real user problem validated through research, analytics, or direct observation.
-
-**Prioritize with data.** List possible solutions, evaluate tradeoffs, cut ruthlessly. Summarize into a clear recommendation. The best PMs say no more than they say yes. Prioritization is driven by impact evidence, not opinion or recency.
-
-**Harden before building.** Every spec gets adversarial analysis. Red-team surfaces hidden assumptions from 12 disciplinary lenses. Steelman converts the weaknesses into positioning advantages. The goal is to find the flaws before your engineers and customers do.
-
-**Execute with discipline.** AutoResearch scores requirements against binary evals and iterates until they pass. No subjective "looks good." Ship what survives the harness. Measure real usage against success metrics. Feed learnings back into the next cycle.
 
 ---
 
@@ -188,6 +131,7 @@ Expand moat, Simplify, Second-order
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/ved%40vednikolic.com-Get%20in%20Touch-10B981?style=for-the-badge)](mailto:ved@vednikolic.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vednikolic-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vednikolic)
 [![Website](https://img.shields.io/badge/vednikolic.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://vednikolic.com)
 
