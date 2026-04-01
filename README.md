@@ -2,7 +2,7 @@
 
 **Senior Product Manager | AI Products | Evaluation and Developer Tools**
 
-I build AI products and the systems that prove they work for customers. Shipped the #1 feature on Meta's AI glasses at consumer scale. Now building open source tools for AI development: knowledge graphs, multi-agent pipelines, and eval methodology proven across 89+ LLM evals.
+I build AI products and the systems that prove they work for customers. Shipped the top feature on Meta's AI glasses at consumer scale. I sharpen my craft through open source: evaluation infrastructure, knowledge graphs, multi-agent pipelines, and eval methodology proven across 89+ LLM evals.
 
 <div align="center">
 <img src="https://img.shields.io/badge/Product%20Management-10%2B%20years-2563EB?style=for-the-badge" />
