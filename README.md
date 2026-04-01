@@ -2,7 +2,7 @@
 
 **Senior PM @ Meta | AI Glasses Capture Experience | Proving AI Works at Scale**
 
-I build AI products and the systems that prove they work for customers. Shipped the top feature on Meta's AI glasses at consumer scale. I sharpen my craft through open source: evaluation infrastructure, knowledge graphs, multi-agent pipelines, and eval methodology proven across hundreds of LLM evals.
+I build AI products and the systems that prove they work for customers. Shipped the top feature on Meta's AI glasses at consumer scale. Led the largest capture feature expansion in product history ahead of schedule. Scaled product support 3x across 4+ organizations. Previously delivered $50M+ incremental revenue at Best Buy, including rebuilding the recommendation architecture to an ML-based system. I sharpen my craft through open source: evaluation methodology for AI products, proven across hundreds of LLM evals.
 
 <div align="center">
 <img src="https://img.shields.io/badge/Product%20Management-10%2B%20years-2563EB?style=for-the-badge" />
