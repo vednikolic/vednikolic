@@ -118,11 +118,12 @@ Expand moat, Simplify, Second-order
   FIND THE GAP              CUT TO WHAT MATTERS          STRESS-TEST                  MEASURE WHAT SHIPPED
   ------------              -------------------          -----------                  --------------------
 
-  #1 feature on             13 features shipped          2 blocking issues            PRD: 17% --> 94%
-  Meta AI glasses           ahead of schedule            caught before build          hundreds of LLM evals
-  (identified real          (said no to scope            (red-team from               (automated loops,
-   user need first)          that didn't move             12 disciplinary              locked scoring,
-                             the metric)                  lenses)                      variance-aware)
+  Top feature on            13 features shipped          A/B tested every             Hundreds of LLM evals
+  Meta AI glasses           ahead of schedule            new feature against          across 5 production
+  (identified real          (said no to scope            topline and guardrail        skills. Automated
+   user need first)          that didn't move             metrics. Red-team            eval loops with locked
+                             the metric)                  from 12 lenses               scoring and variance-
+                                                          before build                 aware regression
 ```
 
 ---
