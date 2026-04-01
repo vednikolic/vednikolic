@@ -2,11 +2,11 @@
 
 **Senior Product Manager | AI Products | Evaluation and Developer Tools**
 
-I build AI products and the systems that prove they work for customers. Shipped the top feature on Meta's AI glasses at consumer scale. I sharpen my craft through open source: evaluation infrastructure, knowledge graphs, multi-agent pipelines, and eval methodology proven across 89+ LLM evals.
+I build AI products and the systems that prove they work for customers. Shipped the top feature on Meta's AI glasses at consumer scale. I sharpen my craft through open source: evaluation infrastructure, knowledge graphs, multi-agent pipelines, and eval methodology proven across hundreds of LLM evals.
 
 <div align="center">
 <img src="https://img.shields.io/badge/Product%20Management-10%2B%20years-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Evaluation-89%2B%20LLM%20Evals-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Evaluation-Hundreds%20of%20LLM%20Evals-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Developer%20Tools-Open%20Source-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-Tools%20%26%20CLIs-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
@@ -54,7 +54,7 @@ cortex reflect  # surfaces patterns across all projects
 Evaluation methodology and tooling for AI products. Schema normalization, constraint gates, variance-aware regression detection, and cost/quality measurement across models.
 
 ```
-Principles from 89+ LLM evals:
+Principles from hundreds of LLM evals:
 - Atomic evals (one assertion per check)
 - Constraint gates (one failure = zero score)
 - LLM-as-judge variance: 5-7.5%
@@ -119,7 +119,7 @@ Expand moat, Simplify, Second-order
   ------------              -------------------          -----------                  --------------------
 
   #1 feature on             13 features shipped          2 blocking issues            PRD: 17% --> 94%
-  Meta AI glasses           ahead of schedule            caught before build          89+ LLM evals
+  Meta AI glasses           ahead of schedule            caught before build          hundreds of LLM evals
   (identified real          (said no to scope            (red-team from               (automated loops,
    user need first)          that didn't move             12 disciplinary              locked scoring,
                              the metric)                  lenses)                      variance-aware)
