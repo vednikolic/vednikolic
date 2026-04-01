@@ -1,6 +1,6 @@
 # Ved Nikolic
 
-**Senior Product Manager | AI Products | Evaluation and Developer Tools**
+**Senior PM @ Meta | AI Glasses Capture Experience | Proving AI Works at Scale**
 
 I build AI products and the systems that prove they work for customers. Shipped the top feature on Meta's AI glasses at consumer scale. I sharpen my craft through open source: evaluation infrastructure, knowledge graphs, multi-agent pipelines, and eval methodology proven across hundreds of LLM evals.
 
