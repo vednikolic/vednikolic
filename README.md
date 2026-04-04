@@ -106,7 +106,21 @@ Expand moat, Simplify, Second-order
 ```
 
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+
+### [Stakeholder Radar](https://github.com/vednikolic/stakeholder-radar)
+<img src="https://img.shields.io/badge/shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/LLM--agnostic-gray?style=flat-square" />
+
+Evidence-based stakeholder profiles from real artifacts. Simulates document reviews before they happen.
+
+```
+Input: meeting notes, Slack threads,
+emails, doc comments, review threads
+Output: per-reviewer predictions with
+evidence and confidence levels
+```
+
+</td>
 </tr>
 </table>
 
