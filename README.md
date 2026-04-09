@@ -1,8 +1,8 @@
 # Ved Nikolic
 
-**AI Experiences PM for Wearable Hardware**
+**AI Experiences PM**
 
-I build the experience layer between AI capability and the people using it, specifically where that experience lives in hardware you wear. At Meta, I lead capture across AI glasses including Meta Ray-Ban Display, Ray-Ban Meta (Gen 1 and 2), Oakley Meta HSTN, and Oakley Meta Vanguard. Drove capture to the top feature at consumer scale, led the largest feature expansion in capture history ahead of schedule, scaled product support 3x across four organizations. Earlier delivered $50M+ incremental revenue at Best Buy. I sharpen my craft through open source: evaluation methodology, a knowledge graph, automated eval loops, and adversarial analysis frameworks.
+I build the experience layer where AI meets real users under real constraints. At Meta, I lead capture across AI glasses including Meta Ray-Ban Display, Ray-Ban Meta (Gen 1 and 2), Oakley Meta HSTN, and Oakley Meta Vanguard, partnering with the AI team on ML models from ideation through production. At Best Buy, I delivered $50M+ incremental revenue by rebuilding the recommendation architecture on an ML foundation. Earlier I founded a consultancy delivering 0-to-1 solutions across fintech, blockchain, and e-commerce in four countries. I sharpen my craft through open source: evaluation methodology, a knowledge graph, automated eval loops, and adversarial analysis frameworks.
 
 <div align="center">
 <img src="https://img.shields.io/badge/AI%20Experiences%20PM-Wearable%20Hardware-2563EB?style=for-the-badge" />
@@ -15,7 +15,7 @@ I build the experience layer between AI capability and the people using it, spec
 
 ## What I Build at Meta
 
-Led the media capture user experience across Meta's AI wearable devices. Drove capture to the **top feature and purchase driver** on Meta's AI glasses with majority user awareness and best-in-class engagement. Partnered with AI team on ML models from ideation through production handoff. Shifted to in-house media processing, achieving **sub-second latency and >99% success rate** across 7+ device SKUs. Shipped the largest feature expansion in capture history ahead of schedule. Scaled product support **3x** across multiple product lines.
+Led the media capture user experience across Meta's AI wearable devices. Drove capture to the **#1 feature and #1 purchase driver** on Meta's AI glasses with majority user awareness and best-in-class engagement. Partnered with AI team on ML models from ideation through production handoff. Shifted to in-house media processing, achieving **sub-second latency and >99% success rate** across 7+ device SKUs. Shipped the largest feature expansion in capture history ahead of schedule. Scaled product support **3x** across multiple product lines.
 
 <div align="center">
 
@@ -132,11 +132,11 @@ evidence and confidence levels
   FIND THE GAP              CUT TO WHAT MATTERS          STRESS-TEST                  MEASURE WHAT SHIPPED
   ------------              -------------------          -----------                  --------------------
 
-  Top feature on            13 features shipped          A/B tested every             Hundreds of LLM evals
-  Meta AI glasses           ahead of schedule            new feature against          across 5 production
-  (identified real          (said no to scope            topline and guardrail        skills. Automated
-   user need first)          that didn't move             metrics. Red-team            eval loops with locked
-                             the metric)                  from 12 lenses               scoring and variance-
+  #1 feature on             13 features shipped          A/B tested every             Hundreds of LLM evals
+  Meta AI glasses,          ahead of schedule            new feature against          across 5 production
+  $50M+ at Best Buy         (said no to scope            topline and guardrail        skills. Automated
+  (find what users           that didn't move             metrics. Red-team            eval loops with locked
+   actually need)             the metric)                  from 12 lenses               scoring and variance-
                                                           before build                 aware regression
 ```
 
