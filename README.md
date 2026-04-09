@@ -1,21 +1,21 @@
 # Ved Nikolic
 
-**Senior PM @ Meta | AI Glasses Capture Experience | Proving AI Works at Scale**
+**AI Experiences PM for Wearable Hardware**
 
-I build AI products and the systems that prove they work for customers. Shipped the top feature on Meta's AI glasses at consumer scale. Led the largest capture feature expansion in product history ahead of schedule. Scaled product support 3x across 4+ organizations. Previously delivered $50M+ incremental revenue at Best Buy, including rebuilding the recommendation architecture to an ML-based system. I sharpen my craft through open source: evaluation methodology for AI products, proven across hundreds of LLM evals.
+I build the experience layer between AI capability and the people using it, specifically where that experience lives in hardware you wear. At Meta, I lead capture across AI glasses including Meta Ray-Ban Display, Ray-Ban Meta (Gen 1 and 2), Oakley Meta HSTN, and Oakley Meta Vanguard. Drove capture to the top feature at consumer scale, led the largest feature expansion in capture history ahead of schedule, scaled product support 3x across four organizations. Earlier delivered $50M+ incremental revenue at Best Buy. I sharpen my craft through open source: evaluation methodology, a knowledge graph, automated eval loops, and adversarial analysis frameworks.
 
 <div align="center">
-<img src="https://img.shields.io/badge/Product%20Management-10%2B%20years-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Evaluation-Hundreds%20of%20LLM%20Evals-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Developer%20Tools-Open%20Source-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Tools%20%26%20CLIs-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Experiences%20PM-Wearable%20Hardware-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Core%20AI%20%2B%20ML-Consumer%20Scale-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Evaluation-Hundreds%20of%20LLM%20Evals-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Open%20Source%20Tools-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
 
 ## What I Build at Meta
 
-Led the media capture user experience across Meta's AI wearable devices. Drove capture to the **#1 feature and #1 purchase driver** on Meta's AI glasses. Shipped the largest feature expansion in capture history ahead of schedule. Scaled product support **3x** across multiple product lines.
+Led the media capture user experience across Meta's AI wearable devices. Drove capture to the **top feature and purchase driver** on Meta's AI glasses with majority user awareness and best-in-class engagement. Partnered with Core AI on ML models from ideation through production handoff. Shifted to in-house media processing, achieving **sub-second latency and >99% success rate** across 7+ device SKUs. Shipped the largest feature expansion in capture history ahead of schedule. Scaled product support **3x** across multiple product lines.
 
 <div align="center">
 
