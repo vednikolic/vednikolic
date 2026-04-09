@@ -5,13 +5,14 @@
 I build the experience layer where AI meets real users under real constraints. At Meta, I lead capture across AI glasses including Meta Ray-Ban Display, Ray-Ban Meta (Gen 1 and 2), Oakley Meta HSTN, and Oakley Meta Vanguard, partnering with the AI team on ML models from ideation through production. At Best Buy, I delivered $50M+ incremental revenue by rebuilding the recommendation architecture on an ML foundation. Earlier I founded a consultancy delivering 0-to-1 solutions across fintech, blockchain, and e-commerce in four countries. I sharpen my craft through open source: evaluation methodology, a knowledge graph, automated eval loops, and adversarial analysis frameworks.
 
 <div align="center">
-<img src="https://img.shields.io/badge/AI%20Experiences%20PM-Consumer%20Scale-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hardware%20%2B%20Software-Wearables%20%26%20Recommendations-374151?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Recommendation%20Systems-$50M%2B%20Revenue-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/0--to--1%20Builder-Discovery%20to%20Launch-F59E0B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Experimentation-Hardware%2C%20AI%20%26%20Software-DC2626?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Evaluation-Hundreds%20of%20LLM%20Evals-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Open%20Source-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Experiences%20PM-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Hardware%20%2B%20Software-374151?style=flat-square" />
+<img src="https://img.shields.io/badge/Recommendations-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/Experimentation-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/0--to--1-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Evaluation-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-333?style=flat-square" />
 </div>
 
 ---
