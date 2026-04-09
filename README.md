@@ -9,6 +9,7 @@ I build the experience layer where AI meets real users under real constraints. A
 <img src="https://img.shields.io/badge/Hardware%20%2B%20Software-Wearables%20%26%20Recommendations-374151?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Recommendation%20Systems-$50M%2B%20Revenue-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/0--to--1%20Builder-Discovery%20to%20Launch-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Experimentation-Hardware%2C%20AI%20%26%20Software-DC2626?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Evaluation-Hundreds%20of%20LLM%20Evals-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-Open%20Source-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
@@ -135,12 +136,12 @@ evidence and confidence levels
   CONSTRAINT                BEFORE HOW                   BEFORE BUILDING              BOUNDARIES
   ---------------           ---------------              ---------------              ---------------
 
-  Sub-second latency,       The spec defines what        Red-team from 12             $50M+ across Best Buy.
-  >99% success at Meta.     good looks like. That        lenses. A/B tested           3x scale across 4+
-  400% attach rate at       clarity shipped the          every feature at Meta.       orgs at Meta. 0-to-1
-  Best Buy. The problem     largest expansion in         Hundreds of LLM evals.       across 4 countries.
-  is rarely what it         Meta capture history         Gates before work            100% growth across
-  looks like.               ahead of schedule.           starts.                      6 markets.
+  Sub-second latency,       The spec defines what        A/B tested every             $50M+ across Best Buy.
+  >99% success at Meta.     good looks like. That        feature across wearable      3x scale across 4+
+  400% attach rate at       clarity shipped the          hardware, AI models,         orgs at Meta. 0-to-1
+  Best Buy. The problem     largest expansion in         and companion software.      across 4 countries.
+  is rarely what it         Meta capture history         $9M+ reco experiments        100% growth across
+  looks like.               ahead of schedule.           at Best Buy. 12 lenses.      6 markets.
 ```
 
 ---
