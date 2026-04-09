@@ -6,6 +6,7 @@ I build the experience layer where AI meets real users under real constraints. A
 
 <div align="center">
 <img src="https://img.shields.io/badge/AI%20Experiences%20PM-Consumer%20Scale-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hardware%20%2B%20Software-Product%20Leadership-374151?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Recommendation%20Systems-$50M%2B%20Revenue-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/0--to--1%20Builder-Discovery%20to%20Launch-F59E0B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Evaluation-Hundreds%20of%20LLM%20Evals-6366F1?style=for-the-badge" />
