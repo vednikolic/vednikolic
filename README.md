@@ -5,10 +5,11 @@
 I build the experience layer where AI meets real users under real constraints. At Meta, I lead capture across AI glasses including Meta Ray-Ban Display, Ray-Ban Meta (Gen 1 and 2), Oakley Meta HSTN, and Oakley Meta Vanguard, partnering with the AI team on ML models from ideation through production. At Best Buy, I delivered $50M+ incremental revenue by rebuilding the recommendation architecture on an ML foundation. Earlier I founded a consultancy delivering 0-to-1 solutions across fintech, blockchain, and e-commerce in four countries. I sharpen my craft through open source: evaluation methodology, a knowledge graph, automated eval loops, and adversarial analysis frameworks.
 
 <div align="center">
-<img src="https://img.shields.io/badge/AI%20Experiences%20PM-Wearable%20Hardware-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20%2B%20ML-Consumer%20Scale-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Experiences%20PM-Consumer%20Scale-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Recommendation%20Systems-$50M%2B%20Revenue-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/0--to--1%20Builder-4%20Countries-F59E0B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Evaluation-Hundreds%20of%20LLM%20Evals-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Open%20Source%20Tools-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Open%20Source-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
@@ -129,15 +130,16 @@ evidence and confidence levels
 ## How I Work
 
 ```
-  FIND THE GAP              CUT TO WHAT MATTERS          STRESS-TEST                  MEASURE WHAT SHIPPED
-  ------------              -------------------          -----------                  --------------------
+  FIND THE REAL             DEFINE WHY                   STRESS-TEST                  SHIP ACROSS
+  CONSTRAINT                BEFORE HOW                   BEFORE BUILDING              BOUNDARIES
+  ---------------           ---------------              ---------------              ---------------
 
-  #1 feature on             13 features shipped          A/B tested every             Hundreds of LLM evals
-  Meta AI glasses,          ahead of schedule            new feature against          across 5 production
-  $50M+ at Best Buy         (said no to scope            topline and guardrail        skills. Automated
-  (find what users           that didn't move             metrics. Red-team            eval loops with locked
-   actually need)             the metric)                  from 12 lenses               scoring and variance-
-                                                          before build                 aware regression
+  Sub-second latency,       The spec defines what        Red-team from 12             $50M+ across Best Buy.
+  >99% success at Meta.     good looks like. That        lenses. A/B tested           3x scale across 4+
+  400% attach rate at       clarity shipped the          every feature at Meta.       orgs at Meta. 0-to-1
+  Best Buy. The problem     largest expansion in         Hundreds of LLM evals.       across 4 countries.
+  is rarely what it         Meta capture history         Gates before work            100% growth across
+  looks like.               ahead of schedule.           starts.                      6 markets.
 ```
 
 ---
