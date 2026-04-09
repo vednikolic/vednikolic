@@ -6,7 +6,7 @@ I build the experience layer between AI capability and the people using it, spec
 
 <div align="center">
 <img src="https://img.shields.io/badge/AI%20Experiences%20PM-Wearable%20Hardware-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Core%20AI%20%2B%20ML-Consumer%20Scale-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%2B%20ML-Consumer%20Scale-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Evaluation-Hundreds%20of%20LLM%20Evals-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-Open%20Source%20Tools-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
@@ -15,7 +15,7 @@ I build the experience layer between AI capability and the people using it, spec
 
 ## What I Build at Meta
 
-Led the media capture user experience across Meta's AI wearable devices. Drove capture to the **top feature and purchase driver** on Meta's AI glasses with majority user awareness and best-in-class engagement. Partnered with Core AI on ML models from ideation through production handoff. Shifted to in-house media processing, achieving **sub-second latency and >99% success rate** across 7+ device SKUs. Shipped the largest feature expansion in capture history ahead of schedule. Scaled product support **3x** across multiple product lines.
+Led the media capture user experience across Meta's AI wearable devices. Drove capture to the **top feature and purchase driver** on Meta's AI glasses with majority user awareness and best-in-class engagement. Partnered with AI team on ML models from ideation through production handoff. Shifted to in-house media processing, achieving **sub-second latency and >99% success rate** across 7+ device SKUs. Shipped the largest feature expansion in capture history ahead of schedule. Scaled product support **3x** across multiple product lines.
 
 <div align="center">
 
