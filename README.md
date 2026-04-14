@@ -1,8 +1,12 @@
 # Ved Nikolic
 
-**AI Experiences PM**
+**AI Experiences PM | Consumer AI, Multimodal Experiences, and Evaluation Systems**
 
-I build the experience layer where AI meets real users under real constraints. At Meta, I lead capture across AI glasses including Meta Ray-Ban Display, Ray-Ban Meta (Gen 1 and 2), Oakley Meta HSTN, and Oakley Meta Vanguard, partnering with the AI team on ML models from ideation through production. At Best Buy, I delivered $50M+ incremental revenue by rebuilding the recommendation architecture on an ML foundation. Earlier I founded a consultancy delivering 0-to-1 solutions across fintech, blockchain, and e-commerce in four countries. I sharpen my craft through open source: evaluation methodology, a knowledge graph, automated eval loops, and adversarial analysis frameworks.
+I build the experience layer where AI meets real users under real constraints.
+
+AI Experiences PM with 12+ years in product leadership across consumer, AI, and commerce products. At Meta, I drove capture to the #1 feature and #1 purchase driver on AI glasses at consumer scale, partnered with AI teams on ML models from ideation through production, and led the largest capture feature expansion in product history ahead of schedule. Previously, I delivered $50M+ incremental revenue at Best Buy by rebuilding recommendation systems on an ML foundation.
+
+I sharpen my craft through open source by building evaluation systems for AI products, a knowledge graph, automated eval loops, and adversarial analysis frameworks.
 
 <div align="center">
 <img src="https://img.shields.io/badge/AI%20Experiences%20PM-2563EB?style=flat-square" />
@@ -19,7 +23,13 @@ I build the experience layer where AI meets real users under real constraints. A
 
 ## What I Build at Meta
 
-Led the media capture user experience across Meta's AI wearable devices. Drove capture to the **#1 feature and #1 purchase driver** on Meta's AI glasses with majority user awareness and best-in-class engagement. Partnered with AI team on ML models from ideation through production handoff. Shifted to in-house media processing, achieving **sub-second latency and >99% success rate** across 7+ device SKUs. Shipped the largest feature expansion in capture history ahead of schedule. Scaled product support **3x** across multiple product lines.
+I have led the media capture experience across Meta's AI glasses, including work on capture for Meta Ray-Ban Display, Ray-Ban Meta (Gen 1 and 2), Oakley Meta HSTN, Oakley Meta Vanguard, and next-generation wearables.
+
+- Drove capture to the #1 feature and #1 purchase driver on Meta's AI glasses
+- Led the largest feature expansion in capture history, shipping over a dozen features ahead of schedule including Ultra HD (3K) video, hyperlapse, slow motion, 60fps, adjustable stabilization and many others
+- Partnered with AI teams from model ideation through production handoff, defining performance requirements and quality metrics for ML models including smart framing, AI denoise, video occlusion correction, interesting frame selection, content tagging, and advanced stabilization
+- Shifted to in-house media processing, achieving sub-second latency and >99% success rate across 7+ device SKUs while improving quality and removing external licensing dependency
+- Scaled product support 3x across 4+ organizations and led alignment on contentious product decisions with minimal leadership involvement
 
 <div align="center">
 
@@ -28,6 +38,15 @@ Led the media capture user experience across Meta's AI wearable devices. Drove c
 | <img src="images/meta-ray-ban-display.jpg" width="400" alt="Meta Ray-Ban Display" /> | <img src="images/ray-ban-meta-gen2.jpg" width="400" alt="Ray-Ban Meta Gen 2" /> |
 
 </div>
+
+---
+
+## Career Highlights
+
+- Meta: consumer AI experiences on constrained hardware, AI glasses capture, ML model collaboration, privacy and compliance, cross-org execution
+- Best Buy Canada: $50M+ incremental annual revenue across recommendation systems and in-home service products
+- IS Inc.: 0-to-1 product consulting across fintech, blockchain, e-commerce, and digital marketing in four countries
+- Allysian Sciences: product leadership during 100% annual growth across six global markets
 
 ---
 
