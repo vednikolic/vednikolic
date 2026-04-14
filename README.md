@@ -23,12 +23,14 @@ I sharpen my craft through open source by building evaluation systems for AI pro
 
 ## What I Build at Meta
 
-I have led the media capture experience across Meta's AI glasses, including work on capture for Meta Ray-Ban Display, Ray-Ban Meta (Gen 1 and 2), Oakley Meta HSTN, Oakley Meta Vanguard, and next-generation wearables.
+I have led the media capture experience across Meta's AI wearable devices, including work on capture for Meta Ray-Ban Display, Ray-Ban Meta (Gen 1 and 2), Oakley Meta HSTN, Oakley Meta Vanguard, and next-generation wearables.
 
 - Drove capture to the #1 feature and #1 purchase driver on Meta's AI glasses
 - Led the largest feature expansion in capture history, shipping over a dozen features ahead of schedule including Ultra HD (3K) video, hyperlapse, slow motion, 60fps, adjustable stabilization and many others
 - Partnered with AI teams from model ideation through production handoff, defining performance requirements and quality metrics for ML models including smart framing, AI denoise, video occlusion correction, interesting frame selection, content tagging, and advanced stabilization
 - Shifted to in-house media processing, achieving sub-second latency and >99% success rate across 7+ device SKUs while improving quality and removing external licensing dependency
+- Owned privacy and compliance reviews for AI-driven features, documenting user journeys and data flows for cross-functional sign-off with risk, security, and legal teams
+- Led VP-level reviews on device capture strategy and constraints
 - Scaled product support 3x across 4+ organizations and led alignment on contentious product decisions with minimal leadership involvement
 
 <div align="center">
