@@ -5,7 +5,7 @@
 Proven at consumer scale:
 
 - Drove capture into the leading purchase driver on Meta's AI glasses, with retention above program targets
-- Delivered $50M+ incremental revenue and a 400% attach-rate lift at Best Buy Canada by rebuilding recommendations on an ML foundation
+- Delivered $50M+ incremental revenue and a 400% attach-rate lift at Best Buy by rebuilding recommendations on an ML foundation
 - Scaled a startup to 100% annual growth across six international markets
 
 I work at the intersection of consumer product, AI, wearable hardware, and commerce. The capabilities change; the question doesn't: should this actually ship, and would users come back for it?
@@ -48,7 +48,7 @@ I lead the media capture user experience across Meta's AI wearable devices. Publ
 ## Career Highlights
 
 - Meta: consumer AI experiences on constrained hardware, AI glasses capture, ML model collaboration, privacy and compliance, cross-org execution
-- Best Buy Canada: $50M+ incremental annual revenue across recommendation systems and in-home service products, 400% attach-rate lift
+- Best Buy: $50M+ incremental annual revenue across recommendation systems and in-home service products, 400% attach-rate lift
 - IS Inc.: 0-to-1 product consulting across fintech, blockchain, e-commerce, and digital marketing in four countries
 - Allysian Sciences: product leadership during 100% annual growth across six global markets
 
