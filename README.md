@@ -5,7 +5,7 @@
 Proven at consumer scale:
 
 - Drove capture into the leading purchase driver on Meta's AI glasses, with retention above program targets
-- Delivered $50M+ incremental revenue and a 400% attach-rate lift at Best Buy by rebuilding recommendations on an ML foundation
+- Delivered $50M+ incremental revenue and a 400% attach rate lift at Best Buy by rebuilding recommendations on an ML foundation
 - Scaled a startup to 100% annual growth across six international markets
 
 I work at the intersection of consumer product, AI, wearable hardware, and commerce. The capabilities change; the question doesn't: should this actually ship, and would users come back for it?
@@ -31,8 +31,8 @@ I lead the media capture user experience across Meta's AI wearable devices. Publ
 - Drove capture into the leading purchase driver on Meta's AI glasses
 - Led the largest feature expansion in capture history, shipping over a dozen features ahead of schedule including Ultra HD (3K) video, hyperlapse, slow motion, 60fps, adjustable stabilization and many others
 - Partnered with AI teams from model ideation through production handoff, defining performance requirements and quality metrics for ML models including smart framing, AI denoise, video occlusion correction, interesting frame selection, content tagging, and advanced stabilization
-- Shifted to in-house media processing, achieving sub-second latency and >99% success rate across 7+ device SKUs while improving quality and removing external licensing dependency
-- Owned privacy and compliance reviews for AI-driven features, documenting user journeys and data flows for cross-functional sign-off with risk, security, and legal teams
+- Shifted to in house media processing, achieving sub second latency and >99% success rate across 7+ device SKUs while improving quality and removing external licensing dependency
+- Owned privacy and compliance reviews for AI driven features, documenting user journeys and data flows for cross functional sign off with risk, security, and legal teams
 - Scaled product support 3x across 4+ organizations and led alignment on contentious product decisions with minimal leadership involvement
 
 <div align="center">
@@ -47,16 +47,16 @@ I lead the media capture user experience across Meta's AI wearable devices. Publ
 
 ## Career Highlights
 
-- Meta: consumer AI experiences on constrained hardware, AI glasses capture, ML model collaboration, privacy and compliance, cross-org execution
-- Best Buy: $50M+ incremental annual revenue across recommendation systems and in-home service products, 400% attach-rate lift
-- IS Inc.: 0-to-1 product consulting across fintech, blockchain, e-commerce, and digital marketing in four countries
+- Meta: consumer AI experiences on constrained hardware, AI glasses capture, ML model collaboration, privacy and compliance, cross org execution
+- Best Buy: $50M+ incremental annual revenue across recommendation systems and in home service products, 400% attach rate lift
+- IS Inc.: 0-to-1 product consulting across fintech, blockchain, ecommerce, and digital marketing in four countries
 - Allysian Sciences: product leadership during 100% annual growth across six global markets
 
 ---
 
 ## Open Source Tools
 
-I sharpen my craft through open source. All LLM-agnostic, free to use.
+I sharpen my craft through open source. All LLM agnostic, free to use.
 
 <table>
 <tr>
@@ -65,7 +65,7 @@ I sharpen my craft through open source. All LLM-agnostic, free to use.
 ### [Cortex](https://github.com/vednikolic/cortex)
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
-The memory layer AI coding tools ship without. Routes session context to structured destinations and surfaces cross-project patterns via a knowledge graph.
+The memory layer AI coding tools ship without. Routes session context to structured destinations and surfaces cross project patterns via a knowledge graph.
 
 ```
 cortex save "chose connection pooling over per-request"
@@ -78,7 +78,7 @@ cortex reflect  # surfaces patterns across all projects
 ### [Evalgate](https://github.com/vednikolic/evalgate)
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/status-work%20in%20progress-F59E0B?style=flat-square" />
 
-Evaluation methodology and tooling for AI products. Schema normalization, constraint gates, variance-aware regression detection, and cost/quality measurement across models.
+Evaluation methodology and tooling for AI products. Schema normalization, constraint gates, variance aware regression detection, and cost/quality measurement across models.
 
 ```
 Principles from hundreds of LLM evals:
