@@ -1,36 +1,38 @@
 # Ved Nikolic
 
-**AI Experiences PM | Consumer AI, Multimodal Experiences, and Evaluation Systems**
+**I help consumer teams ship features that become the reason users buy, stay, and spend more.**
 
-I build the experience layer where AI meets real users under real constraints.
+Proven at consumer scale:
 
-AI Experiences PM with 12+ years in product leadership across consumer, AI, and commerce products. At Meta, I drove capture to the #1 feature and #1 purchase driver on AI glasses at consumer scale, partnered with AI teams on ML models from ideation through production, and led the largest capture feature expansion in product history ahead of schedule. Previously, I delivered $50M+ incremental revenue at Best Buy by rebuilding recommendation systems on an ML foundation.
+- Drove capture into the leading purchase driver on Meta's AI glasses, with retention above program targets
+- Delivered $50M+ incremental revenue and a 400% attach-rate lift at Best Buy Canada by rebuilding recommendations on an ML foundation
+- Scaled a startup to 100% annual growth across six international markets
 
-I sharpen my craft through open source by building evaluation systems for AI products, a knowledge graph, automated eval loops, and adversarial analysis frameworks.
+I work at the intersection of consumer product, AI, wearable hardware, and commerce. The capabilities change; the question doesn't: would this actually ship, and would users come back for it?
 
 <div align="center">
-<img src="https://img.shields.io/badge/AI%20Experiences%20PM-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Meta%20AI%20Glasses-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/%2450M%2B%20at%20Best%20Buy-10B981?style=flat-square" />
 <img src="https://img.shields.io/badge/Hardware%20%2B%20Software-374151?style=flat-square" />
-<img src="https://img.shields.io/badge/Recommendations-10B981?style=flat-square" />
-<img src="https://img.shields.io/badge/Experimentation-DC2626?style=flat-square" />
-<img src="https://img.shields.io/badge/0--to--1-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/AI%20Evaluation-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Recommendations-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/Experimentation-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/0--to--1-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Evaluation-333?style=flat-square" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20Source-333?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20Source-1a1a1a?style=flat-square" />
 </div>
 
 ---
 
 ## What I Build at Meta
 
-I have led the media capture experience across Meta's AI wearable devices, including work on capture for Meta Ray-Ban Display, Ray-Ban Meta (Gen 1 and 2), Oakley Meta HSTN, Oakley Meta Vanguard, and next-generation wearables.
+I lead the media capture user experience across Meta's AI wearable devices. Public proof points include work on capture for Meta Ray-Ban Display, Ray-Ban Meta (Gen 1 and 2), Oakley Meta HSTN, and Oakley Meta Vanguard.
 
-- Drove capture to the #1 feature and #1 purchase driver on Meta's AI glasses
+- Drove capture into the leading purchase driver on Meta's AI glasses
 - Led the largest feature expansion in capture history, shipping over a dozen features ahead of schedule including Ultra HD (3K) video, hyperlapse, slow motion, 60fps, adjustable stabilization and many others
 - Partnered with AI teams from model ideation through production handoff, defining performance requirements and quality metrics for ML models including smart framing, AI denoise, video occlusion correction, interesting frame selection, content tagging, and advanced stabilization
 - Shifted to in-house media processing, achieving sub-second latency and >99% success rate across 7+ device SKUs while improving quality and removing external licensing dependency
 - Owned privacy and compliance reviews for AI-driven features, documenting user journeys and data flows for cross-functional sign-off with risk, security, and legal teams
-- Led VP-level reviews on device capture strategy and constraints
 - Scaled product support 3x across 4+ organizations and led alignment on contentious product decisions with minimal leadership involvement
 
 <div align="center">
@@ -46,7 +48,7 @@ I have led the media capture experience across Meta's AI wearable devices, inclu
 ## Career Highlights
 
 - Meta: consumer AI experiences on constrained hardware, AI glasses capture, ML model collaboration, privacy and compliance, cross-org execution
-- Best Buy Canada: $50M+ incremental annual revenue across recommendation systems and in-home service products
+- Best Buy Canada: $50M+ incremental annual revenue across recommendation systems and in-home service products, 400% attach-rate lift
 - IS Inc.: 0-to-1 product consulting across fintech, blockchain, e-commerce, and digital marketing in four countries
 - Allysian Sciences: product leadership during 100% annual growth across six global markets
 
@@ -54,7 +56,7 @@ I have led the media capture experience across Meta's AI wearable devices, inclu
 
 ## Open Source Tools
 
-I build tools that solve real problems in AI product development. All open source, all LLM-agnostic.
+I sharpen my craft through open source. All LLM-agnostic, free to use.
 
 <table>
 <tr>
