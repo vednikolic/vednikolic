@@ -4,7 +4,7 @@
 
 Proven at consumer scale:
 
-- Drove capture into the leading purchase driver on Meta's AI glasses, with retention above program targets
+- Drove capture into the leading purchase driver on Meta's AI glasses, with retention above program targets and greater than 10x growth in capture usage
 - Delivered $50M+ incremental revenue and a 400% attach rate lift at Best Buy by rebuilding recommendations on an ML foundation
 - Scaled a startup to 100% annual growth across six international markets
 
@@ -28,7 +28,7 @@ I work at the intersection of consumer product, AI, wearable hardware, and comme
 
 I lead the media capture user experience across Meta's AI wearable devices. Public proof points include work on capture for Meta Ray-Ban Display, Ray-Ban Meta (Gen 1 and 2), Oakley Meta HSTN, and Oakley Meta Vanguard.
 
-- Drove capture into the leading purchase driver on Meta's AI glasses
+- Drove capture into the leading purchase driver on Meta's AI glasses, with greater than 10x growth in capture usage
 - Led the largest feature expansion in capture history, shipping over a dozen features ahead of schedule including Ultra HD (3K) video, hyperlapse, slow motion, 60fps, adjustable stabilization and many others
 - Partnered with AI teams from model ideation through production handoff, defining performance requirements and quality metrics for ML models including smart framing, AI denoise, video occlusion correction, interesting frame selection, content tagging, and advanced stabilization
 - Shifted to in house media processing, achieving sub second latency and >99% success rate across 7+ device SKUs while improving quality and removing external licensing dependency
