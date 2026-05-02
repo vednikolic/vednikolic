@@ -8,7 +8,7 @@ Proven at consumer scale:
 - Delivered $50M+ incremental revenue and a 400% attach rate lift at Best Buy by rebuilding recommendations on an ML foundation
 - Scaled a startup to 100% annual growth across six international markets
 
-Consumer Product Leader across AI, hardware, and commerce. The capabilities change; the question doesn't: should this actually ship, and would users come back for it?
+I work at the intersection of consumer product, AI, wearable hardware, and commerce. The capabilities change; the question doesn't: should this actually ship, and would users come back for it?
 
 <div align="center">
 <img src="https://img.shields.io/badge/Meta%20AI%20Glasses-2563EB?style=flat-square" />
