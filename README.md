@@ -29,7 +29,7 @@ I work at the intersection of consumer product, AI, wearable hardware, and comme
 I lead media capture across Meta's AI wearable devices, from sensing to sharing across camera systems, media quality, computational photography, media processing, power, thermal, systems health, AI model quality, and companion app software. That work spans Meta Ray-Ban Display, Ray-Ban Meta Gen 1 and 2, Oakley Meta HSTN, and Oakley Meta Vanguard.
 
 - Drove capture into the leading purchase driver on Meta's AI glasses, with greater than 10x growth in capture usage
-- Defined camera media quality strategy, influenced sensor and lens product decisions, improved thermal performance through simulation, and built an automated media quality measurement prototype
+- Defined camera media quality strategy, influenced sensor and lens product decisions, drove thermal performance improvements with engineering partners, and built an automated media quality measurement prototype
 - Led the largest feature expansion in capture history, shipping over a dozen features ahead of schedule including Ultra HD (3K) video, hyperlapse, slow motion, 60fps, adjustable stabilization and many others
 - Partnered with AI teams from model ideation through production handoff, defining performance requirements and quality metrics for ML models including smart framing, AI denoise, video occlusion correction, interesting frame selection, content tagging, and advanced stabilization
 - Shifted to in house media processing, achieving sub second latency and >99% success rate across 7+ device SKUs while improving quality and removing external licensing dependency
@@ -50,7 +50,7 @@ I lead media capture across Meta's AI wearable devices, from sensing to sharing 
 
 - Meta: consumer AI experiences on constrained hardware, AI glasses capture, ML model collaboration, privacy and compliance, cross org execution
 - Best Buy: $50M+ incremental annual revenue across recommendation systems and in home service products, 400% attach rate lift
-- IS Inc.: 0-to-1 product consulting across fintech, blockchain, ecommerce, and digital marketing in four countries
+- IS Inc.: 0-to-1 product consulting across fintech and ecommerce in four countries
 - Allysian Sciences: product leadership during 100% annual growth across six global markets
 
 ---
