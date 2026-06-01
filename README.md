@@ -24,15 +24,15 @@ I work at the intersection of consumer product, AI, wearable hardware, and comme
 
 ---
 
-## What I Build at Meta
+## What I Built at Meta
 
-I lead media capture across Meta's AI wearable devices, from sensing to sharing across camera systems, media quality, computational photography, media processing, power, thermal, systems health, AI model quality, and companion app software. That work spans Meta Ray-Ban Display, Ray-Ban Meta Gen 1 and 2, Oakley Meta HSTN, and Oakley Meta Vanguard.
+I led media capture across Meta's AI wearable devices, from sensing to sharing across camera systems, media quality, computational photography, media processing, power, thermal, systems health, AI model quality, and companion app software. That work spanned Meta Ray-Ban Display, Ray-Ban Meta Gen 1 and 2, Oakley Meta HSTN, and Oakley Meta Vanguard.
 
 - Drove capture into the leading purchase driver on Meta's AI glasses, with greater than 10x growth in capture usage
 - Defined camera media quality strategy, influenced sensor and lens product decisions, drove thermal performance improvements with engineering partners, and built an automated media quality measurement prototype
 - Led the largest feature expansion in capture history, shipping over a dozen features ahead of schedule including Ultra HD (3K) video, hyperlapse, slow motion, 60fps, adjustable stabilization and many others
-- Partnered with AI teams from model ideation through production handoff, defining performance requirements and quality metrics for ML models including smart framing, AI denoise, video occlusion correction, interesting frame selection, content tagging, and advanced stabilization
-- Shifted to in house media processing, achieving sub second latency and >99% success rate across 7+ device SKUs while improving quality and removing external licensing dependency
+- Partnered with AI teams from model ideation through production handoff, defining performance requirements and quality metrics for ML models including smart framing, AI denoise, video occlusion correction, interesting frame selection, and advanced stabilization
+- Moved selected media processing in house, eliminating an external licensing dependency and improving quality across 7+ device SKUs; separate capture pipeline work drove sub second latency at over 99% success rate
 - Owned privacy and compliance reviews for AI driven features, documenting user journeys and data flows for cross functional sign off with risk, security, and legal teams
 - Scaled product support 3x across 4+ organizations and led alignment on contentious product decisions with minimal leadership involvement
 
