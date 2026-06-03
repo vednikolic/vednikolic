@@ -1,14 +1,14 @@
 # Ved Nikolic
 
-**I ship features that become the reason users buy, stay, and spend more.**
+**AI Product Leader, from research to products people adopt, retain, and engage with.**
 
 Proven at consumer scale:
 
-- Drove capture into the leading purchase driver on Meta's AI glasses, with retention above program targets and greater than 10x growth in capture usage
+- Turned AI research models into shipped capture features and drove capture into the leading purchase driver on Meta's AI glasses, with retention above program targets and greater than 10x growth in capture usage
 - Delivered $50M+ incremental revenue and a 400% attach rate lift at Best Buy by rebuilding recommendations on an ML foundation
 - Scaled a startup to 100% annual growth across six international markets
 
-I work at the intersection of consumer product, AI, wearable hardware, and commerce. The capabilities change; the question doesn't: should this actually ship, and would users come back for it?
+I work at the intersection of consumer product, AI, wearable hardware, and commerce. The capabilities change; the question doesn't: should this actually ship, and would users come back for it? A lot of that has meant turning AI research and models into products people actually use at consumer scale.
 
 <div align="center">
 <img src="https://img.shields.io/badge/Meta%20AI%20Glasses-2563EB?style=flat-square" />
@@ -28,7 +28,7 @@ I work at the intersection of consumer product, AI, wearable hardware, and comme
 
 I led media capture across Meta's AI wearable devices, from sensing to sharing across camera systems, media quality, computational photography, media processing, power, thermal, systems health, AI model quality, and companion app software. That work spanned Meta Ray-Ban Display, Ray-Ban Meta Gen 1 and 2, Oakley Meta HSTN, and Oakley Meta Vanguard.
 
-- Drove capture into the leading purchase driver on Meta's AI glasses, with greater than 10x growth in capture usage
+- Turned AI research models into shipped capture features and drove capture into the leading purchase driver on Meta's AI glasses, with greater than 10x growth in capture usage
 - Defined camera media quality strategy, influenced sensor and lens product decisions, drove thermal performance improvements with engineering partners, and built an automated media quality measurement prototype
 - Led the largest feature expansion in capture history, shipping over a dozen features ahead of schedule including Ultra HD (3K) video, hyperlapse, slow motion, 60fps, adjustable stabilization and many others
 - Partnered with AI teams from model ideation through production handoff, defining performance requirements and quality metrics for ML models including smart framing, AI denoise, video occlusion correction, interesting frame selection, and advanced stabilization
